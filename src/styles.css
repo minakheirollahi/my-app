@@ -1,0 +1,68 @@
+body {
+  background: radial-gradient(
+    592px at 48.2% 50%,
+    rgba(255, 255, 249, 0.6) 0%,
+    rgba(139, 164, 199, 0.637) 74.6%
+  );
+}
+.container {
+  padding-top: 20px;
+  background: transparent;
+  margin: 20px auto;
+  max-width: 800px;
+  padding: auto;
+}
+.current-city p {
+  font-weight: lighter;
+}
+.next-days img {
+  width: 50px;
+}
+.next-days p {
+  font-weight: lighter;
+  color: rgb(51, 93, 206);
+}
+.temp {
+  margin-top: 50px;
+}
+.status {
+  margin-top: 50px;
+}
+.next-days {
+  margin: 0 auto;
+  text-align: center;
+}
+.next-days div {
+  padding: 0 30px;
+}
+/*.search-field {
+  background-color: transparent;
+  line-height: 35px;
+  border: 1px solid rgb(109, 133, 201);
+  border-radius: 18px;
+}
+.search-btn {
+  padding: 4px 7px;
+  background-color: transparent;
+  font-size: 18px;
+  border: 1px solid rgb(109, 133, 201);
+  border-radius: 18px;
+}
+.current-btn {
+  margin: 15px;
+  padding: 4px 7px;
+  background-color: transparent;
+  font-size: 20px;
+  border: 1px solid rgb(109, 133, 201);
+  border-radius: 18px;
+}
+.current-btn:hover {
+  background-color: rgba(71, 71, 199, 0.493);
+  color: aliceblue;
+  transition: 200ms all ease-in-out;
+}*/
+hr {
+  width: 50%;
+  margin-left: 25% !important;
+  margin-right: 25% !important;
+}
